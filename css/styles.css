@@ -1,0 +1,70 @@
+.bg-light {
+    background-color: #d5e986!important;
+}
+.navbar-brand{
+height: 8vh;
+width:8vw;
+}
+.navbar-brand img{
+    height: 8vh;
+    width:8vw;
+    background-color: #d5e986!important;
+    
+}
+.form-control{
+    background-color: #a5fdc9;
+}
+.nav-item.active a.nav-link{
+    color:black !important;
+}
+
+.nav-item a.nav-link:hover{
+    color:black !important;
+    border-bottom:1px solid rgb(64, 117, 231);
+}
+.dropdown-menu
+{
+    border-top-color: #f3154c;
+    border-bottom-color: #f3154c;
+}
+.carousel-inner{
+ width:100vw;
+ height:80vh;
+}
+.carousel-control-prev-icon{
+    width: 40px;
+    height: 40px;
+}
+.carousel-control-next-icon{
+    width: 40px;
+    height: 40px;
+}
+.carousel-indicators{
+    height:5px;
+}
+
+carouselExampleIndicators{
+    height:4px;
+
+}
+.jumbotron {
+    padding: 1rem 1rem;
+    margin-bottom:0rem;
+    margin-top:0rem;
+}
+.display-4{
+    font-size: 2.5em;
+    font-weight: 200;
+    line-height: 1px !important;
+}
+footer{
+    height: 12vh;
+    background-color: rgb(205, 207, 59);
+    border-top:2px solid rgb(11, 21, 163);
+    padding:1em;
+    text-align: center;
+    color:black;
+}
+footer h5{
+    font: size 1em;
+}
